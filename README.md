@@ -4,7 +4,7 @@
 ## Hello World ;
 Deepesh Garg here, an undergrad at MIT, Manipal pursuing Information Technology. I'm passionate about coding and problem solving and experienced in Machine Learning and Web/App development.
 ### Summary 👨‍
-- 👨🏻‍💻 Experience in Machine Learning (and MLOps), worked for Startups and in research projects.
+- 👨🏻‍💻 Experienced in Machine Learning (and MLOps), worked for Startups and in research projects.
 - 👯 Full Stack Developer
 - 💬 Ask me anything! Always ready to talk about tech!
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/deepesh-garg-4a14b7104/) 
