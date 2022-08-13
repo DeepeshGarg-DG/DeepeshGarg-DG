@@ -12,7 +12,7 @@ Deepesh Garg here, an undergrad at MIT, Manipal pursuing Information Technology.
 I'm a technical writer, and co-founded a blog, The Silent Geeks! Check out the Instagram Page:
   
 <p>
-  Instagram <a href="https://www.instagram.com/thesilentgeeks/?igshid=YmMyMTA2M2Y="><img width="25" height="25" src="/resources/instagram.svg"></a>
+  Instagram  <a href="https://www.instagram.com/thesilentgeeks/?igshid=YmMyMTA2M2Y="><img width="15" height="15" src="/resources/instagram.svg"></a>
   &nbsp;
 </p>
 
